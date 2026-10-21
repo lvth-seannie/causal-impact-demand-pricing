@@ -38,4 +38,4 @@ Detailed search spaces for leaf size, tree depth, and pruning are documented in 
 As detailed in the manuscript, this study utilizes a pooled estimation approach. While we control for temporal shocks (e.g., Year, Quarter, Major Events), the model does not formally exploit a dynamic panel structure. Future work should explore within-route variations to further validate these causal mechanisms.
 
 ## © License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
